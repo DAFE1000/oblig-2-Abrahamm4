@@ -8,5 +8,26 @@
 
 ![Analytical solution](analytical_solution.jpg)
 
+## Numerisk utregning
+
+Vi bruker Newtons metode for å løse likningen numerisk.
+
+Resultat:
+
+x ≈ 1.6907  
+f(x) ≈ 0.6793  
+
+Toppunkt:
+
+(1.6907, 0.6793)
+
+---
+
+## Plot
+
+Grafen til funksjonen med toppunkt markert:
+
+![Plot](oblig2_plot.png)
+
 
 
